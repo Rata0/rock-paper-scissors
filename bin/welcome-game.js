@@ -1,0 +1,1 @@
+console.log(`Greetings in the game Rock paper scissors :)`);
