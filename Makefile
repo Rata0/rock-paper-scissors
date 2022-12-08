@@ -3,3 +3,7 @@ install:
 
 welcome-game:
 		node bin/welcome-game.js
+
+publish:
+		publish --dry-run
+
